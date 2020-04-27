@@ -5,7 +5,7 @@ This work is presented to work with Animal Crossing - New Horizons, for public i
 ## Warning:
 Don't even think of blaming me if anything goes wrong with you using this. It's supposed to help you in the development of bot automation, but I am not liable for any damages or bans you might get in the process. Use at your own risk and all that.
 
-## (planned) feature list:
+## feature list:
 ### button input:
 - [x] simulate button press
 - [x] simulate button hold
