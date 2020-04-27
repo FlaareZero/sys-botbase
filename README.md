@@ -1,5 +1,6 @@
 # sys-botbase based on jakibakis sys-netcheat
 The purpose of this sys-module is to allow users to remote control their switch via wifi connection as well as to read and write to a games memory. This can be used to create bots for games and other fun automation projects.
+Will work presented with Animal Crossing - New Horizons, for public in-game online sessions.
 
 ## Warning:
 Don't even think of blaming me if anything goes wrong with you using this. It's supposed to help you in the development of bot automation, but I am not liable for any damages or bans you might get in the process. Use at your own risk and all that.
@@ -38,3 +39,4 @@ The sysmodule opens a socket connection on port 6000. See the python example on 
 
 
 # big thank you to jakibaki for a great sysmodule base to learn and work with, as well as being helpful on the Reswitched discord!
+# Thanks to the original dev for this bot module, and to some other developers as well.
