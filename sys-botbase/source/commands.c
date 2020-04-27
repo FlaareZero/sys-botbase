@@ -96,6 +96,8 @@ void getBuildID(MetaData* meta, u64 pid){
     memcpy(meta->buildID, proc_module->build_id, 0x20);
 }
 
+//get data from game
+
 MetaData getMetaData(){
     MetaData meta;
     attach();
@@ -112,6 +114,8 @@ MetaData getMetaData(){
     detach();
     return meta;
 }
+
+//initialize controller setup
 
 void initController()
 {
